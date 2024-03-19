@@ -15,7 +15,7 @@ ms.subservice: general-ide
 If you’re authenticated to GitHub or Azure DevOps and have pushed changes to your remote repository, you can create a pull request without leaving Visual Studio. Pull requests are an essential tool in GitHub and Azure DevOps for code review.  These reviews help catch issues in new features and allow teammates to share their experience with different regions of the codebase – improving the health of the codebase overall.  
 
 > [!NOTE]
-> To try out the feature, ensure it’s enabled in **Tools** > **Options** > **Preview Features** > **Pull Request**
+> To try out the feature, ensure it’s enabled in **Tools** > **Options** > **Environment** > **Preview Features** > **Pull Request**
 
 To create a pull request, follow these steps:
 
